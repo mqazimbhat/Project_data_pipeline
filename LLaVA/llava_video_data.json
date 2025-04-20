@@ -1,0 +1,592 @@
+[
+  [
+    {
+      "from": "human",
+      "value": "<video> GLd3aX16zBg_clip_0.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "spread margarine on two slices of white bread"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> GLd3aX16zBg_clip_1.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "place a slice of cheese on the bread"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> GLd3aX16zBg_clip_2.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "place the bread slices on top of each other and place in a hot pan"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> GLd3aX16zBg_clip_3.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "flip the sandwich over and press down"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> GLd3aX16zBg_clip_4.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "cut the sandwich in half diagonally"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_0.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "pick the ends off the verdalago"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_1.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "combine lemon juice sumac garlic salt and oil in a bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_2.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "chop lettuce and place it in a bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_3.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add verdalago pepper cucumbers tomatoes herbs and onions to the lettuce in the bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_4.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "pour the dressing over the salad and mix"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> xHr8X2Wpmno_clip_5.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add the fried pita to the salad and mix"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_0.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "combine salt butter milk and hot sauce in a bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_1.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "place chicken in a small bowl and pour brine over chicken and freeze it for 1 hour"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_2.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "pour off the brine and rinse chicken off thoroughly and shake off excess water"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_3.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "place chicken on a plate or tray and season generously with mixed spices"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_4.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "season the flour with salt pepper and celery salt"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_5.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "coat the chicken pieces in the flour"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_6.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "place chicken in hot oil and fry until golden brown"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> V53XmPeyjIU_clip_7.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "fry dark meats together and white meats together"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_0.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "mix bread crumbs and parmesan cheese"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_1.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "pound the chicken"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_2.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "rub salt and pepper onto the chicken"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_3.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "rub flour onto the chicken  dip it in egg and coat with breadcrumbs"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_4.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "fry the chicken in a pan"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_5.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "spread sauce over the chicken"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_6.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "top the chicken with mozzarella cheese"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> mZwK0TBI1iY_clip_7.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "bake the chicken in the oven"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> H_9oM1Y60lU_clip_0.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "grill the  patties"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> H_9oM1Y60lU_clip_1.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "chop some roasted pepper and season with salt and pepper"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_0.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "mix sesame seeds with chicken breast"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_1.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add in cooking oil soy sauce salt and mix everything up"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_2.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add 2 tbsp corn starch and let it marinate"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_3.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "combine chicken stock dark soy sauce cooking wine hoisin sauce black vinegar sugar and sesame oil"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_4.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "mix some corn starch and water together"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_5.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "coat the chicken pieces with flour and fry them in the oil"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_6.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "fry some minced garlic roasted red chilli and the sauce"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_7.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "add in the corn starch and water mixture"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> XOwypmUT5cc_clip_8.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "add in the fried chicken and stir to coat them well"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> _xOx9hkJoBk_clip_0.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "cut squid rings"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> _xOx9hkJoBk_clip_1.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add some ground white pepper ground cayenne pepper and ground black pepper to the same bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> _xOx9hkJoBk_clip_2.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "mix of ingredients in the bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> _xOx9hkJoBk_clip_3.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "coat the squid rings with the mixture in the bowl"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> _xOx9hkJoBk_clip_4.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "put the squid rings on a pan and cook the squid rings with oil poured on them"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> 67ilysu8CeU_clip_0.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "heat some oil in a pan with garlic and cumin seeds"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> 67ilysu8CeU_clip_1.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "add some chopped onions and stir"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> 67ilysu8CeU_clip_2.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "add tomato puree and stir"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> 67ilysu8CeU_clip_3.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "add the chicken and coat with the sauce"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> 67ilysu8CeU_clip_4.mp4\nWhat is happening in this clip?"
+    },
+    {
+      "from": "gpt",
+      "value": "season it with coriander powder and add some water"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> gEYyWqs1oL0_clip_0.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "cut the tuna into smaller sections"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> gEYyWqs1oL0_clip_1.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "cut the skin off the section"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> gEYyWqs1oL0_clip_2.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "cut the dark part off"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_0.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "chop the lemon grass ginger onion and chili finely"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_1.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "pre heat oil in a bowl and add onions chili lemon grass ginger and garlic and stir it and put a lid on"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_2.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "discard the broken and bad mussels"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_3.mp4\nSummarize the video content."
+    },
+    {
+      "from": "gpt",
+      "value": "add coconut milk fish sauce and soy sauce into the pan"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_4.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "chop fresh coriander and slice the lime"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_5.mp4\nPlease explain what is going on in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "put all the mussels into the bowl and stir"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_6.mp4\nDescribe the activity shown in the video."
+    },
+    {
+      "from": "gpt",
+      "value": "transfer all the mussel shells out of the bowl and squeeze lemon over them"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "<video> nfYzqyureLo_clip_7.mp4\nWhat action is being performed?"
+    },
+    {
+      "from": "gpt",
+      "value": "pour the sauce over the mussel shells"
+    }
+  ]
+]
